@@ -48,7 +48,7 @@ Cyber Link is a production-ready URL shortener built with Node.js, Express, and 
 
 ## 🌐 Demo
 
-🔗 **Live Demo**: [Cyber Link](https://your-deployed-url.vercel.app)
+🔗 **Live Demo**: [Cyber Link](https://url-shortener-two-iota.vercel.app/)
 
 ### Screenshots
 
